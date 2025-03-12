@@ -12,7 +12,11 @@
 **Extract high-quality, watermark-free videos from TikTok profiles with ease**  
 *Developed by [Diệp Văn Tiến](https://github.com/diepvantien)*
 
-[Installation](#installation) • [Features](#key-features) • [Usage](#usage) • [Screenshots](#screenshots) • [FAQ](#frequently-asked-questions) • [Support](#support)
+<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/releases/download/v1.1.0/TikTok-Original-Video-Downloader-v1.1.0.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
+</a>
+
+[Installation](#installation) • [Features](#key-features) • [Usage](#usage) • [FAQ](#frequently-asked-questions) • [Support](#support)
 
 </div>
 
@@ -54,12 +58,14 @@ TikTok Original Video Downloader is a Chrome extension that lets you download vi
 
 ## Installation
 
-### Method 1: Direct Download from GitHub
+### Method 1: Direct Download
 
-1. Visit the GitHub repository: [https://github.com/diepvantien/TikTok-Original-Video-Downloader](https://github.com/diepvantien/TikTok-Original-Video-Downloader)
-2. Click the green **Code** button in the top right
-3. Select **Download ZIP**
-4. Extract the downloaded ZIP file to a location of your choice
+<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/releases/download/v1.1.0/TikTok-Original-Video-Downloader-v1.1.0.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
+</a>
+
+1. Click the download button above to get the latest version
+2. Extract the downloaded ZIP file to a location of your choice
 
 ### Method 2: Clone the Repository
 
@@ -74,6 +80,10 @@ git clone https://github.com/diepvantien/TikTok-Original-Video-Downloader.git
 3. Click **Load unpacked**
 4. Select the folder containing the extracted extension files
 5. The extension is now installed and ready to use!
+
+### Chrome Web Store
+
+The extension will be available on the Chrome Web Store soon. Once approved, you can install it directly from there with a single click.
 
 ---
 
@@ -185,6 +195,14 @@ Referer: https://www.tiktok.com/
 - **background.js**: Manages the extension's background processes and browser integration
 - **manifest.json**: Defines the extension's properties and permissions
 
+### Version History
+
+| Version | Release Date | Changes |
+|---------|-------------|---------|
+| 1.1.0   | 2025-03-12  | Added donation info, improved scan algorithm |
+| 1.0.5   | 2025-02-28  | Fixed compatibility issues with TikTok UI updates |
+| 1.0.0   | 2025-02-15  | Initial release |
+
 ---
 
 ## Support
@@ -192,7 +210,7 @@ Referer: https://www.tiktok.com/
 If you find this extension helpful, please consider supporting the developer:
 
 - **Developer**: Diệp Văn Tiến (diepvantien)
-- **Momo**: [https://me.momo.vn/OeIGiJsViJfDfntmiRId](https://me.momo.vn/OeIGiJsViJfDfntmiRId)
+- **Momo**: [Donate via Momo](https://me.momo.vn/OeIGiJsViJfDfntmiRId)
 - **Vietinbank**: 109866849450
 - **GitHub**: [https://github.com/diepvantien](https://github.com/diepvantien)
 
@@ -205,6 +223,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-<p>Last Updated: 2025-03-12 04:14:11 UTC</p>
+<p>Last Updated: 2025-03-12 04:19:03 UTC</p>
 <p>© 2025 Diệp Văn Tiến - All Rights Reserved</p>
 </div>
