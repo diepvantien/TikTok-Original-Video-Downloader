@@ -2,18 +2,16 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Last Updated](https://img.shields.io/badge/updated-2025--03--12-green)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
 ![Chrome](https://img.shields.io/badge/platform-Chrome-yellow)
-
-<img src="https://github.com/diepvantien/TikTok-Original-Video-Downloader/raw/main/icon.png" alt="Logo" width="128" height="128">
 
 **Extract high-quality, watermark-free videos from TikTok profiles with ease**  
 *Developed by [Diệp Văn Tiến](https://github.com/diepvantien)*
 
 <a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/raw/main/TikTok%20Original%20Video%20Downloader.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.0.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
 </a>
 
 [Installation](#installation) • [Features](#key-features) • [Usage](#usage) • [FAQ](#frequently-asked-questions) • [Support](#support)
@@ -61,7 +59,7 @@ TikTok Original Video Downloader is a Chrome extension that lets you download vi
 ### Method 1: Direct Download
 
 <a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/raw/main/TikTok%20Original%20Video%20Downloader.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.0.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
 </a>
 
 1. Click the download button above to get the latest version
@@ -199,9 +197,7 @@ Referer: https://www.tiktok.com/
 
 | Version | Release Date | Changes |
 |---------|-------------|---------|
-| 1.1.0   | 2025-03-12  | Added donation info, improved scan algorithm |
-| 1.0.5   | 2025-02-28  | Fixed compatibility issues with TikTok UI updates |
-| 1.0.0   | 2025-02-15  | Initial release |
+| 1.0.0   | 2025-03-12  | Initial release with donation info and advanced scanning |
 
 ---
 
@@ -223,6 +219,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-<p>Last Updated: 2025-03-12 04:21:50 UTC</p>
+<p>Last Updated: 2025-03-12 04:23:59 UTC</p>
 <p>© 2025 Diệp Văn Tiến - All Rights Reserved</p>
 </div>
