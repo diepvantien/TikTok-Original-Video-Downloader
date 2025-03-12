@@ -12,7 +12,7 @@
 **Extract high-quality, watermark-free videos from TikTok profiles with ease**  
 *Developed by [Diệp Văn Tiến](https://github.com/diepvantien)*
 
-<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/releases/download/v1.1.0/TikTok-Original-Video-Downloader-v1.1.0.zip">
+<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/raw/main/TikTok%20Original%20Video%20Downloader.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
 </a>
 
@@ -60,7 +60,7 @@ TikTok Original Video Downloader is a Chrome extension that lets you download vi
 
 ### Method 1: Direct Download
 
-<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/releases/download/v1.1.0/TikTok-Original-Video-Downloader-v1.1.0.zip">
+<a href="https://github.com/diepvantien/TikTok-Original-Video-Downloader/raw/main/TikTok%20Original%20Video%20Downloader.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-Extension%20v1.1.0-2ea44f?style=for-the-badge&logo=github" alt="Download Extension">
 </a>
 
@@ -223,6 +223,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-<p>Last Updated: 2025-03-12 04:19:03 UTC</p>
+<p>Last Updated: 2025-03-12 04:21:50 UTC</p>
 <p>© 2025 Diệp Văn Tiến - All Rights Reserved</p>
 </div>
