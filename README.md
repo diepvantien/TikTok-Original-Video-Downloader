@@ -26,6 +26,8 @@
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Usage](#usage)
+  - [Method 1: Using the Chrome Extension](#method-1-using-the-chrome-extension)
+  - [Method 2: Using the JavaScript Console](#method-2-using-the-javascript-console)
 - [Downloading with IDM](#downloading-with-idm)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Technical Details](#technical-details)
@@ -87,7 +89,9 @@ The extension will be available on the Chrome Web Store soon. Once approved, you
 
 ## Usage
 
-### Finding and Extracting Video Links
+You can use TikTok Original Video Downloader in two ways:
+
+### Method 1: Using the Chrome Extension
 
 1. **Navigate to a TikTok Profile**
    - Open any TikTok profile page (e.g., `https://www.tiktok.com/@username`)
@@ -106,6 +110,28 @@ The extension will be available on the Chrome Web Store soon. Once approved, you
    - Or click **Copy All Links** to copy all links to your clipboard
    - The exported links include instructions and proper HTTP headers for downloading
 
+### Method 2: Using the JavaScript Console
+
+If you prefer not to install the extension or need a quick download, you can use the standalone script directly in your browser's console:
+
+1. **Navigate to a TikTok Profile**
+   - Open any TikTok profile page (e.g., `https://www.tiktok.com/@username`)
+
+2. **Open the Browser Console**
+   - Press `F12` or right-click anywhere on the page and select "Inspect"
+   - Navigate to the "Console" tab
+
+3. **Run the Script**
+   - Copy the entire script from [tiktok_original_downloader.js](https://github.com/diepvantien/TikTok-Original-Video-Downloader/blob/main/tiktok_original_downloader.js)
+   - Paste it into the console and press Enter
+
+4. **Use the Tool**
+   - The tool interface will appear in the top-right corner of the TikTok page
+   - The auto-scrolling process will start automatically to find videos
+   - Use the same controls as the extension to download or copy links
+
+> **Note**: Using the script via console provides exactly the same functionality as the extension, but doesn't require installation. This method is perfect for one-time uses or testing.
+
 ---
 
 ## Downloading with IDM
@@ -115,7 +141,7 @@ Internet Download Manager (IDM) provides the best experience for downloading the
 ### Step 1: Import Links to IDM
 
 **Method A: From Clipboard**
-1. Copy the links (using the "Copy All Links" button in the extension)
+1. Copy the links (using the "Copy All Links" button in the extension or script UI)
 2. Open IDM
 3. Click **Tasks** > **Add Batch Download From Clipboard**
 
@@ -157,7 +183,7 @@ Referer: https://www.tiktok.com/
 
 <details>
 <summary><b>The extension doesn't work on TikTok</b></summary>
-<p>Ensure you're on a TikTok profile page (URL format: tiktok.com/@username). Try refreshing the page or reinstalling the extension if issues persist.</p>
+<p>Ensure you're on a TikTok profile page (URL format: tiktok.com/@username). Try refreshing the page or reinstalling the extension if issues persist. Alternatively, try using the script via console method.</p>
 </details>
 
 <details>
@@ -172,7 +198,12 @@ Referer: https://www.tiktok.com/
 
 <details>
 <summary><b>Does it work on mobile?</b></summary>
-<p>This extension is designed for desktop Chrome browsers. Mobile browsers generally don't support extensions.</p>
+<p>This extension is designed for desktop Chrome browsers. Mobile browsers generally don't support extensions or console scripts.</p>
+</details>
+
+<details>
+<summary><b>Which method should I use - extension or console script?</b></summary>
+<p>Use the extension for regular usage as it's more convenient. The console script is perfect for one-time downloads or when you can't install extensions (like on work computers with restrictions).</p>
 </details>
 
 ---
@@ -192,6 +223,7 @@ Referer: https://www.tiktok.com/
 - **content.js**: Handles the core functionality of finding and extracting video links
 - **background.js**: Manages the extension's background processes and browser integration
 - **manifest.json**: Defines the extension's properties and permissions
+- **tiktok_original_downloader.js**: Standalone script that can be run directly from browser console
 
 ### Version History
 
@@ -219,6 +251,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-<p>Last Updated: 2025-03-12 04:23:59 UTC</p>
+<p>Last Updated: 2025-03-12 04:35:03 UTC</p>
 <p>© 2025 Diệp Văn Tiến - All Rights Reserved</p>
 </div>
